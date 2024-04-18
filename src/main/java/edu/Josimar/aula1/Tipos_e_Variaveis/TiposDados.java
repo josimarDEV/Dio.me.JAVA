@@ -5,8 +5,8 @@ public class TiposDados{
         byte idade = 30;
         short ano = 2021;
         int cep = 21070333; // se começar com zero, talvez tenha que ser outro tipo (tipo string)
-        long cpf = 98765432109L; // se começar com zero, talvez tenha que ser outro tipo (tipo string) precisa terminar com L maiusculo
-        float pi = 3.14f; //tipo float tem que colocar um f no final pode ser maiusculo ou minusculo
+        long cpf = 98765432109L; // se começar com zero, talvez tenha que ser outro tipo (tipo string) precisa terminar com L maiúsculo
+        float pi = 3.14f; //tipo float tem que colocar um f no final pode ser maiúsculo ou minusculo
         double salario = 1275.33;
         boolean verdadeiro = true;
         boolean falso = false;
